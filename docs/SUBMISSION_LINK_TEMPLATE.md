@@ -7,8 +7,7 @@
 ## Google Drive Link (View Access)
 Paste your shareable link below:
 
-**Drive Link:** [PASTE_LINK_HERE]
-
+**Drive Link:** https://drive.google.com/drive/u/2/folders/13VGkYIBqedJfNQq8hexngbdAKni0llv5
 ## Checklist
 - [ ] Uploaded project report/documentation to Google Drive
 - [ ] Sharing set to “Anyone with the link can view”
